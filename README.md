@@ -10,7 +10,7 @@ This repository contains a Game Server and Client implementation in Python.
 To run the Game Server, use the following command format: `python GameServer.py <ServerPort> <filename>`
 
 - `<ServerPort>`: Specify the port number on which the server will listen for incoming connections.
-- `<filename>`: Specify the name of the file containing the game data.
+- `<filename>`: Specify the name of the file containing the user information.
 
 ### Game Client
 
